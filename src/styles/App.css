@@ -12,6 +12,9 @@
 }
 
 
+#gallery .column {
+  overflow: hidden;
+}
 
 
 /* BUTTON EFFECT */
@@ -24,7 +27,7 @@
 }
 
 .button-effect:hover {
-  transform: scale(1.13);
+  transform: scale(1.53);
   filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
   z-index: 999 !important;
 }

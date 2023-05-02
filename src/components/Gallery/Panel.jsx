@@ -16,7 +16,7 @@ export default function Panel ({ data: {id, name, cover, about, website,}}) {
   const handleShow = () => setShow(true);
 
   return (
-    <Col key={id} xs={4} md={3} lg={1} className="m-0 p-0">
+    <Col key={id} xs={4} md={3} lg={1} className="m-0 p-0 column">
       <Image 
         alt={id}
         src={`${cover}${sizeThumb}`} 
