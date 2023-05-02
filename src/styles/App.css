@@ -22,7 +22,7 @@
 .button-effect {
   display: block;
   transform: scale(1.0);
-  transition: transform 0.23s ease-in-out;
+  transition: transform 0.73s ease-in-out;
   z-index: 1;
 }
 

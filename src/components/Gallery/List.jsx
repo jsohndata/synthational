@@ -12,7 +12,7 @@ export default function List() {
           data.map(
             (element)=> (
               element
-                ? <Panel data={element} />
+                ? <Panel key={element.id} data={element} />
                 : <p>Loading...</p>            
           ))
         }
