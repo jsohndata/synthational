@@ -14,8 +14,7 @@ export default function List() {
               element
                 ? <Panel data={element} />
                 : <p>Loading...</p>            
-            )
-          )
+          ))
         }
         </Row>
       </Container>

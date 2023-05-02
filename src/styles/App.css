@@ -1,4 +1,39 @@
-#gallery figure img {
-  aspect-ratio: 1 / 1;
-  object-fit:contain;
+.modal-content img {
+  border: 5px solid rgb(250, 250, 250);
+  box-shadow: 0px 0px 55px rgba(231, 230, 230, 0.733);
+}
+
+.backdrop-effect {
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: brightness(100px);  
+  -webkit-backdrop-filter: brightness(100px);  
+  backdrop-filter: blur(3px);  
+  -webkit-backdrop-filter: blur(3px);
+}
+
+
+
+
+/* BUTTON EFFECT */
+/******************************** */
+.button-effect {
+  display: block;
+  transform: scale(1.0);
+  transition: transform 0.23s ease-in-out;
+  z-index: 1;
+}
+
+.button-effect:hover {
+  transform: scale(1.13);
+  filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
+  z-index: 999 !important;
+}
+
+/* Disable hover effects on mobile */
+@media (max-width: 768px) {
+  .button-effect:hover
+  {
+      transform: scale(1.0);
+      filter: none;
+  }
 }
