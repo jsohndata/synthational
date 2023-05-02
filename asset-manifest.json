@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/things-i-collect/static/css/main.6eae8bc6.css",
+    "main.js": "/things-i-collect/static/js/main.7b9bab03.js",
+    "index.html": "/things-i-collect/index.html",
+    "main.6eae8bc6.css.map": "/things-i-collect/static/css/main.6eae8bc6.css.map",
+    "main.7b9bab03.js.map": "/things-i-collect/static/js/main.7b9bab03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eae8bc6.css",
+    "static/js/main.7b9bab03.js"
+  ]
+}
