@@ -7,5 +7,7 @@ Using React.js and Bootstrap this was a study of JSON data and the utilization o
 ## Site
 * 👉 [jsohndata.github.io/things-i-collect](https://jsohndata.github.io/things-i-collect/)
 
+<br>
+
 ## Resoruces
 [Photos: picsum.photos](https://picsum.photos/)
