@@ -9,5 +9,5 @@ Using React.js and Bootstrap this was a study of JSON data and the utilization o
 
 <br>
 
-## Resoruces
+## Resources
 [Photos: picsum.photos](https://picsum.photos/)
