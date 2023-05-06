@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Panel from "./Panel.jsx";
-import data from "../../data/gallery.json";
+import data from "../../data/gallery-ai.json";
 
 export default function List() {
   

@@ -1,363 +1,436 @@
 [
   {
     "id": 1,
-    "cover": "https://picsum.photos/id/200/"
+    "cover": "https://picsum.photos/id/200/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 2,
-    "cover": "https://picsum.photos/id/201/"
+    "cover": "https://picsum.photos/id/201/300/400",
+    "large": "https://picsum.photos/id/201/900/1200"
+    
   },  
 
   {
     "id": 3,
-    "cover": "https://picsum.photos/id/202/"
+    "cover": "https://picsum.photos/id/202/300/400",
+    "large": "https://picsum.photos/id/202/900/1200"
   },
 
   {
     "id": 4,
-    "cover": "https://picsum.photos/id/203/"
+    "cover": "https://picsum.photos/id/203/300/400",
+    "large": "https://picsum.photos/id/203/900/1200"
   },
 
   {
     "id": 5,
-    "cover": "https://picsum.photos/id/204/"
+    "cover": "https://picsum.photos/id/204/300/400",
+    "large": "https://picsum.photos/id/204/900/1200"
   },
 
   {
     "id": 6,
-    "cover": "https://picsum.photos/id/305/"
+    "cover": "https://picsum.photos/id/305/300/400",
+    "large": "https://picsum.photos/id/305/900/1200"
   },  
 
   {
     "id": 7,
-    "cover": "https://picsum.photos/id/206/"
+    "cover": "https://picsum.photos/id/206/300/400",
+    "large": "https://picsum.photos/id/206/900/1200"
   },
 
   {
     "id": 8,
-    "cover": "https://picsum.photos/id/307/"
+    "cover": "https://picsum.photos/id/307/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 9,
-    "cover": "https://picsum.photos/id/312/"
+    "cover": "https://picsum.photos/id/312/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 10,
-    "cover": "https://picsum.photos/id/313/"
+    "cover": "https://picsum.photos/id/313/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 11,
-    "cover": "https://picsum.photos/id/314/"
+    "cover": "https://picsum.photos/id/314/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 12,
-    "cover": "https://picsum.photos/id/315/"
+    "cover": "https://picsum.photos/id/315/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 13,
-    "cover": "https://picsum.photos/id/316/"
+    "cover": "https://picsum.photos/id/316/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 14,
-    "cover": "https://picsum.photos/id/317/"
+    "cover": "https://picsum.photos/id/317/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 15,
-    "cover": "https://picsum.photos/id/318/"
+    "cover": "https://picsum.photos/id/318/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 16,
-    "cover": "https://picsum.photos/id/319/"
+    "cover": "https://picsum.photos/id/319/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
 
   {
     "id": 17,
-    "cover": "https://picsum.photos/id/320/"
+    "cover": "https://picsum.photos/id/320/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 18,
-    "cover": "https://picsum.photos/id/321/"
+    "cover": "https://picsum.photos/id/321/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 19,
-    "cover": "https://picsum.photos/id/324/"
+    "cover": "https://picsum.photos/id/324/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 20,
-    "cover": "https://picsum.photos/id/330/"
+    "cover": "https://picsum.photos/id/330/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 21,
-    "cover": "https://picsum.photos/id/331/"
+    "cover": "https://picsum.photos/id/331/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 22,
-    "cover": "https://picsum.photos/id/343/"
+    "cover": "https://picsum.photos/id/343/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 23,
-    "cover": "https://picsum.photos/id/344/"
+    "cover": "https://picsum.photos/id/344/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 24,
-    "cover": "https://picsum.photos/id/351/"
+    "cover": "https://picsum.photos/id/351/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 25,
-    "cover": "https://picsum.photos/id/361/"
+    "cover": "https://picsum.photos/id/361/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 26,
-    "cover": "https://picsum.photos/id/691/"
+    "cover": "https://picsum.photos/id/691/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 27,
-    "cover": "https://picsum.photos/id/681/"
+    "cover": "https://picsum.photos/id/681/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 28,
-    "cover": "https://picsum.photos/id/731/"
+    "cover": "https://picsum.photos/id/731/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 29,
-    "cover": "https://picsum.photos/id/700/"
+    "cover": "https://picsum.photos/id/700/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 30,
-    "cover": "https://picsum.photos/id/701/"
+    "cover": "https://picsum.photos/id/701/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 31,
-    "cover": "https://picsum.photos/id/702/"
+    "cover": "https://picsum.photos/id/702/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 32,
-    "cover": "https://picsum.photos/id/703/"
+    "cover": "https://picsum.photos/id/703/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 33,
-    "cover": "https://picsum.photos/id/704/"
+    "cover": "https://picsum.photos/id/704/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 34,
-    "cover": "https://picsum.photos/id/705/"
+    "cover": "https://picsum.photos/id/705/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 35,
-    "cover": "https://picsum.photos/id/716/"
+    "cover": "https://picsum.photos/id/716/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 36,
-    "cover": "https://picsum.photos/id/717/"
+    "cover": "https://picsum.photos/id/717/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 37,
-    "cover": "https://picsum.photos/id/718/"
+    "cover": "https://picsum.photos/id/718/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 38,
-    "cover": "https://picsum.photos/id/220/"
+    "cover": "https://picsum.photos/id/220/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 39,
-    "cover": "https://picsum.photos/id/721/"
+    "cover": "https://picsum.photos/id/721/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 40,
-    "cover": "https://picsum.photos/id/151/"
+    "cover": "https://picsum.photos/id/151/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 41,
-    "cover": "https://picsum.photos/id/152/"
+    "cover": "https://picsum.photos/id/152/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 42,
-    "cover": "https://picsum.photos/id/153/"
+    "cover": "https://picsum.photos/id/153/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 43,
-    "cover": "https://picsum.photos/id/154/"
+    "cover": "https://picsum.photos/id/154/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 44,
-    "cover": "https://picsum.photos/id/155/"
+    "cover": "https://picsum.photos/id/155/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 45,
-    "cover": "https://picsum.photos/id/161/"
+    "cover": "https://picsum.photos/id/161/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 46,
-    "cover": "https://picsum.photos/id/163/"
+    "cover": "https://picsum.photos/id/163/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 47,
-    "cover": "https://picsum.photos/id/164/"
+    "cover": "https://picsum.photos/id/164/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 48,
-    "cover": "https://picsum.photos/id/165/"
+    "cover": "https://picsum.photos/id/165/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
 
   {
     "id": 49,
-    "cover": "https://picsum.photos/id/167/"
+    "cover": "https://picsum.photos/id/167/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 50,
-    "cover": "https://picsum.photos/id/169/"
+    "cover": "https://picsum.photos/id/169/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 51,
-    "cover": "https://picsum.photos/id/170/"
+    "cover": "https://picsum.photos/id/170/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 52,
-    "cover": "https://picsum.photos/id/171/"
+    "cover": "https://picsum.photos/id/171/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 53,
-    "cover": "https://picsum.photos/id/173/"
+    "cover": "https://picsum.photos/id/173/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 54,
-    "cover": "https://picsum.photos/id/174/"
+    "cover": "https://picsum.photos/id/174/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 55,
-    "cover": "https://picsum.photos/id/175/"
+    "cover": "https://picsum.photos/id/175/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 56,
-    "cover": "https://picsum.photos/id/176/"
+    "cover": "https://picsum.photos/id/176/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 57,
-    "cover": "https://picsum.photos/id/177/"
+    "cover": "https://picsum.photos/id/177/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 58,
-    "cover": "https://picsum.photos/id/178/"
+    "cover": "https://picsum.photos/id/178/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 59,
-    "cover": "https://picsum.photos/id/179/"
+    "cover": "https://picsum.photos/id/179/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 60,
-    "cover": "https://picsum.photos/id/180/"
+    "cover": "https://picsum.photos/id/180/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 61,
-    "cover": "https://picsum.photos/id/181/"
+    "cover": "https://picsum.photos/id/181/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 62,
-    "cover": "https://picsum.photos/id/187/"
+    "cover": "https://picsum.photos/id/187/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 63,
-    "cover": "https://picsum.photos/id/190/"
+    "cover": "https://picsum.photos/id/190/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 64,
-    "cover": "https://picsum.photos/id/191/"
+    "cover": "https://picsum.photos/id/191/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 65,
-    "cover": "https://picsum.photos/id/192/"
+    "cover": "https://picsum.photos/id/192/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 66,
-    "cover": "https://picsum.photos/id/193/"
+    "cover": "https://picsum.photos/id/193/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 67,
-    "cover": "https://picsum.photos/id/194/"
+    "cover": "https://picsum.photos/id/194/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 68,
-    "cover": "https://picsum.photos/id/195/"
+    "cover": "https://picsum.photos/id/195/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },  
 
   {
     "id": 69,
-    "cover": "https://picsum.photos/id/196/"
+    "cover": "https://picsum.photos/id/196/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 70,
-    "cover": "https://picsum.photos/id/197/"
+    "cover": "https://picsum.photos/id/197/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 71,
-    "cover": "https://picsum.photos/id/198/"
+    "cover": "https://picsum.photos/id/198/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   },
 
   {
     "id": 72,
-    "cover": "https://picsum.photos/id/199/"
+    "cover": "https://picsum.photos/id/199/300/400",
+    "large": "https://picsum.photos/id/200/900/1200"
   }  
 ]
