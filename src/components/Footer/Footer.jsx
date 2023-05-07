@@ -3,7 +3,7 @@ import { Github } from "react-bootstrap-icons";
 
 export default function Footer() {
 
-  const githubUrl = "https://github.com/jsohndata/things-i-collect";
+  const githubUrl = "https://github.com/jsohndata/synthational";
   const currentYear = new Date().getFullYear();
 
   return (

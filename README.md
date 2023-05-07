@@ -1,5 +1,5 @@
 # Synthational
-[![Read Me](/public/images/readme.webp)](https://jsohndata.github.io/things-i-collect/)
+[![Read Me](/public/images/readme.webp)](https://jsohndata.github.io/synthational/)
 Immersing oneself in the world of AI-generated images that span diverse styles, from surreal illustrations and hyper-realistic photographs to anime, all while grooving to some dope music and giving free rein to the imagination to run wild.
  
 <br>
