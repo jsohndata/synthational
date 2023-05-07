@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "cover": "/synthational/images/1-cover.webp",
-    "large": "/synthational/images/1-large.webp"
+    "cover": "/synthational/images/78-cover.webp",
+    "large": "/synthational/images/78-large.jpg"
   },
 
   {
@@ -111,8 +111,8 @@
 
   {
     "id": 19,
-    "cover": "/synthational/images/19-cover.webp",
-    "large": "/synthational/images/19-large.webp"
+    "cover": "/synthational/images/76-cover.webp",
+    "large": "/synthational/images/76-large.webp"
   },
 
   {
@@ -407,7 +407,7 @@
   {
     "id": 68,
     "cover": "/synthational/images/65-cover.webp",
-    "large": "/synthational/images/65-large.webp"
+    "large": "/synthational/images/65-large.jpg"
   },  
 
   {
@@ -432,5 +432,41 @@
     "id": 72,
     "cover": "/synthational/images/72-cover.webp",
     "large": "/synthational/images/72-large.webp"
+  },
+
+  {
+    "id": 73,
+    "cover": "/synthational/images/73-cover.webp",
+    "large": "/synthational/images/73-large.jpg"
+  },
+
+  {
+    "id": 74,
+    "cover": "/synthational/images/74-cover.webp",
+    "large": "/synthational/images/74-large.jpg"
+  },
+
+  {
+    "id": 75,
+    "cover": "/synthational/images/75-cover.webp",
+    "large": "/synthational/images/75-large.jpg"
+  },
+
+  {
+    "id": 76,
+    "cover": "/synthational/images/19-cover.webp",
+    "large": "/synthational/images/19-large.webp"  
+  },
+
+  {
+    "id": 77,
+    "cover": "/synthational/images/77-cover.webp",
+    "large": "/synthational/images/77-large.jpg"  
+  },
+
+  {
+    "id": 78,
+    "cover": "/synthational/images/1-cover.webp",
+    "large": "/synthational/images/1-large.webp"
   }  
 ]
