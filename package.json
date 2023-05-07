@@ -1,8 +1,8 @@
 {
-  "name": "things-i-collect",
+  "name": "synthational",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jsohndata.github.io/things-i-collect",
+  "homepage": "https://jsohndata.github.io/synthational",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gh-pages": "^5.0.0",

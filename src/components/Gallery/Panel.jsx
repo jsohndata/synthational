@@ -1,12 +1,12 @@
 import { useState } from "react";
-import { Col,Image, Modal, Button } from "react-bootstrap";
+import { Col,Image, Modal } from "react-bootstrap";
 
 export default function Panel ({ data: {id, cover, large}}) {
 
-  // const sizeThumb = "300/400";
+  // "300/400"
   // xs={4} md={3} lg={2}
 
-  // const sizeThumb = "400/300";
+  // "400/300";
   // xs={6} md={4} lg={3} xl={2}
 
   const [show, setShow] = useState(false);
@@ -15,21 +15,25 @@ export default function Panel ({ data: {id, cover, large}}) {
   const handleShow = () => setShow(true);
 
   return (
-    <Col xs={4} md={3} lg={1} className="m-0 p-0 column">
+    <Col xs={4}  lg={2} className="m-0 p-0 column">
       <Image 
-        alt={id}
         src={`${cover}`} 
+        alt={id}        
         fluid
         className="button-effect"
         onClick={handleShow} />
-
-        <Modal show={show} onHide={handleClose} className="backdrop-effect">
+        
+      <Modal 
+        size="md"
+        show={show} 
+        onHide={handleClose} 
+        className="backdrop-effect">
           <Image 
-          alt={id}
-          src={`${large}`} 
-          fluid
-          onClick={handleShow} />
-        </Modal>
+            src={`${large}`}             
+            alt={id}
+            fluid
+            onClick={handleShow} />
+      </Modal>
     </Col>
   )
 }
