@@ -1,5 +1,35 @@
 [
   {
+    "id": 93,
+    "cover": "/synthational/images/93-cover.webp",
+    "large": "/synthational/images/93-large.webp"
+  },
+
+  {
+    "id": 92,
+    "cover": "/synthational/images/92-cover.webp",
+    "large": "/synthational/images/92-large.webp"
+  },
+
+  {
+    "id": 91,
+    "cover": "/synthational/images/91-cover.webp",
+    "large": "/synthational/images/91-large.webp"
+  },
+
+  {
+    "id": 90,
+    "cover": "/synthational/images/90-cover.webp",
+    "large": "/synthational/images/90-large.webp"
+  },
+
+  {
+    "id": 79,
+    "cover": "/synthational/images/79-cover.webp",
+    "large": "/synthational/images/79-large.webp"
+  },
+
+  {
     "id": 1,
     "cover": "/synthational/images/78-cover.webp",
     "large": "/synthational/images/78-large.jpg"
