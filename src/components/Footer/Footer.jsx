@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <footer>
-      <Container id="portfolio" fluid className="p-5 bg-dark">
+      <Container id="portfolio" fluid className="p-5">
         <Row>
           <Col>
           <p className="text-center text-secondary">

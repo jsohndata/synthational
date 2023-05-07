@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(28, 7, 38) !important;
+}
+
 .modal-content img {
   border: 5px solid rgb(250, 250, 250);
   box-shadow: 0px 0px 55px rgba(231, 230, 230, 0.733);
