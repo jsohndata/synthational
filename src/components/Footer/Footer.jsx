@@ -24,7 +24,7 @@ export default function Footer() {
         </Row>
       </Container>
 
-      <p id="mozarts-ghost"><a href="https://jsohndata.github.io/no-tiempo/mozartsghost?id=11"
+      <p id="mozarts-ghost"><a href="https://jsohndata.github.io/no-tiempo/mozartsghost?id=sytha"
         alt="Click on it and press control-shift."
         title="Click on it and press control-shift.">π</a></p>
     </footer>
