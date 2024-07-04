@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/synthational/static/css/main.53d02a5c.css",
-    "main.js": "/synthational/static/js/main.a29a8d7e.js",
+    "main.js": "/synthational/static/js/main.1526b316.js",
     "index.html": "/synthational/index.html",
     "main.53d02a5c.css.map": "/synthational/static/css/main.53d02a5c.css.map",
-    "main.a29a8d7e.js.map": "/synthational/static/js/main.a29a8d7e.js.map"
+    "main.1526b316.js.map": "/synthational/static/js/main.1526b316.js.map"
   },
   "entrypoints": [
     "static/css/main.53d02a5c.css",
-    "static/js/main.a29a8d7e.js"
+    "static/js/main.1526b316.js"
   ]
 }
